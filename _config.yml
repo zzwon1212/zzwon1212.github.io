@@ -100,16 +100,16 @@ author:
   location         : "Seoul, Korea"
   email            :
   links:
-    - label: "Email"
+    - label: ""
       icon: "fas fa-envelope"
       url: "zzwon1212@gmail.com"
-    - label: "Linked-in"
+    - label: ""
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/zzwon1212/"
-    - label: "GitHub"
+    - label: ""
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zzwon1212"
-    - label: "Instagram"
+    - label: ""
       icon: "fab fa-instagram"
       url: "https://instagram.com/zzwon12"
 
