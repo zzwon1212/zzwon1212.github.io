@@ -211,16 +211,16 @@ body:hover .visually-hidden button {
     color: $text-color;
   }
   
-//   .fa-envelope {
-//     color: #333333;
-//   }
+  .fa-envelope {
+    color: #333333;
+  }
 
-//   .fa-github,
-//   .fa-github-alt,
-//   .fa-github-square {
-//     color: #333333;
-// //     color: $github-color;
-//   }
+  .fa-github,
+  .fa-github-alt,
+  .fa-github-square {
+    color: #333333;
+//     color: $github-color;
+  }
 
   .fa-instagram {
     color: #333333;
@@ -232,6 +232,7 @@ body:hover .visually-hidden button {
     color: #333333;
 //     color: $linkedin-color;
   }
+}
 
 /*
    Navicons
