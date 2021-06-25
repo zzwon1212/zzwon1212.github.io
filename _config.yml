@@ -104,14 +104,13 @@ author:
       icon: "fas fa-envelope"
       url: "zzwon1212@gmail.com"
     - label: "Linked-in"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-linkedin fa-2x"
       url: "https://www.linkedin.com/in/zzwon1212/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-github fa-3x"
       url: "https://github.com/zzwon1212"
     - label: "Instagram"
-      icon: "fab fa-instagram"
-#       icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-instagram fa-4x"
       url: "https://instagram.com/zzwon12"
 
 # Site Footer
