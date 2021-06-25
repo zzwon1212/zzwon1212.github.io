@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "Google Brain Team"
-    url: https://research.google/teams/brain/
+  - title: "Google AI"
+    url: https://ai.googleblog.com/
   - title: "KaKao Brain"
     url: https://www.kakaobrain.com/blog
+  - title: "Naver Clova"
+    url: https://clova-ai.blog/
   - title: "How to"
     url: https://devinlife.com/howto/
   # - title: "Quick-Start Guide"
