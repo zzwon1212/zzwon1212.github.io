@@ -38,13 +38,13 @@
       {% endif %}
 
       {% if author.links %}
+        <a href="{{ author.links[0].url }}" rel="nofollow noopener noreferrer"><i class="{{ author.links[0].icon | default: 'fas fa-link' }}" aria-hidden="true"></i></a>
         {% for link in author.links %}
           {% if link.label and link.url %}
             <a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i></a>
           {% endif %}
         {% endfor %}
       {% endif %}
-      
 <!--       {% if author.links %}
         {% for link in author.links %}
           {% if link.label and link.url %}
