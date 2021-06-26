@@ -298,7 +298,6 @@
   }
 
   li {
-    display: inline-block;
     white-space: nowrap;
   }
 
@@ -314,6 +313,10 @@
 
     &:hover {
       text-decoration: underline;
+    }
+  
+  .myown {
+    display: inline-block;
     }
   }
 }
