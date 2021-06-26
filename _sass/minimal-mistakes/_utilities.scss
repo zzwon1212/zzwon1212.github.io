@@ -204,7 +204,14 @@ body:hover .visually-hidden button {
 /* social icons*/
 
 .social-icons {
-  display: inline;
+  li {
+    display: inline-block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: $sans-serif-narrow;
+    font-size: $type-size-6;
+    text-transform: uppercase;
+  }
   .fas,
   .fab,
   .far,
