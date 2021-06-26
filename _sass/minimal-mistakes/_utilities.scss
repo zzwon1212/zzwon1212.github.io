@@ -204,7 +204,7 @@ body:hover .visually-hidden button {
 /* social icons*/
 
 .social-icons {
-  li {
+  li + a {
     display: inline-block;
     padding-top: 5px;
     padding-bottom: 5px;
