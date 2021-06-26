@@ -300,6 +300,10 @@
   li {
     white-space: nowrap;
   }
+  
+  li.myown {
+    display: inline-block;
+  }
 
   a {
     display: block;
@@ -314,10 +318,7 @@
     &:hover {
       text-decoration: underline;
     }
-  
-  li.myown {
-    display: inline-block;
-    }
+    
   }
 }
 
