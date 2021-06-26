@@ -298,11 +298,12 @@
   }
 
   li {
+    display: inline-block;
     white-space: nowrap;
   }
 
   a {
-    display: inline-block;
+    display: block;
     margin-bottom: 5px;
     padding-right: 5px;
     padding-top: 2px;
