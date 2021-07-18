@@ -79,8 +79,11 @@
 
   .social-icons {
     a {
-      text-align: center;
       white-space: nowrap;
+    }
+    
+    ul {
+      text-align: center;
     }
   }
 }
