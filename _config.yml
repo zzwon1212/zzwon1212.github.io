@@ -116,14 +116,21 @@ author:
 # Site Footer
 footer:
   links:
+    - label: ""
+      icon: "fas fa-envelope"
+      url: "mailto:zzwon1212@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/zzwon1212/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      url: "https://github.com/zzwon1212"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
@@ -132,8 +139,9 @@ footer:
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+#       icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-instagram"
+      url: "https://instagram.com/zzwon12"
 
 
 # Reading Files
