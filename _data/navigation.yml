@@ -2,8 +2,8 @@
 main:
   - title: "Google AI"
     url: https://ai.googleblog.com/
-  - title: "KaKao Brain"
-    url: https://www.kakaobrain.com/blog
+  - title: "kakao Tech"
+    url: https://tech.kakao.com/blog/
   - title: "Naver Clova"
     url: https://clova-ai.blog/
   - title: "How to"
