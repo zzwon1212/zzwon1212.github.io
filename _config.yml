@@ -102,16 +102,16 @@ author:
   links:
     - label: ""
       icon: "fas fa-envelope"
-      url: "mailto:zzwon1212@gmail.com"
+      url: ""
     - label: ""
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/zzwon1212/"
+      url: ""
     - label: ""
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/zzwon1212"
+      url: ""
     - label: ""
       icon: "fab fa-instagram"
-      url: "https://instagram.com/zzwon12"
+      url: ""
 
 
 # Site Footer
