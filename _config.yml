@@ -101,18 +101,9 @@ author:
   email            :
   links:
     - label: ""
-      icon: "fas fa-envelope"
+      icon: ""
       url: ""
-    - label: ""
-      icon: "fab fa-linkedin"
-      url: ""
-    - label: ""
-      icon: "fab fa-fw fa-github"
-      url: ""
-    - label: ""
-      icon: "fab fa-instagram"
-      url: ""
-
+      
 
 # Site Footer
 footer:
