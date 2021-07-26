@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "Jiwon Lee"
   avatar           : "/assets/images/bio_image.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "To save our time."
+  bio              : ".."
   location         : "Seoul, Korea"
   email            :
   links:
