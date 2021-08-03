@@ -1,13 +1,15 @@
 # main links
 main:
-  - title: "Google AI"
-    url: https://ai.googleblog.com/
-  - title: "kakao Tech"
-    url: https://tech.kakao.com/blog/
-  - title: "NAVER D2"
-    url: https://d2.naver.com/home
-  - title: "How to"
-    url: https://devinlife.com/howto/
+  - title: "kakao"
+    url: https://tech.kakao.com/
+  - title: "NAVER"
+    url: https://developers.naver.com/
+  - title: "LINE"
+    url: https://engineering.linecorp.com/
+  - title: "nc"
+    url: https://blog.ncsoft.com/
+  - title: "Woowahan"
+    url: https://techblog.woowahan.com/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
