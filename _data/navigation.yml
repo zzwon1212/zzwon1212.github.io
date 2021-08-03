@@ -10,6 +10,8 @@ main:
     url: https://blog.ncsoft.com/
   - title: "Woowahan"
     url: https://techblog.woowahan.com/
+  - title: "Guide"
+    url: https://devinlife.com/howto/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
