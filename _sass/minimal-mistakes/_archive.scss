@@ -18,6 +18,10 @@
   }
 }
 
+.archive__item:hover {
+  opacity: 0.6;
+  }
+
 .archive__item {
   position: relative;
   margin-bottom: 2em;
