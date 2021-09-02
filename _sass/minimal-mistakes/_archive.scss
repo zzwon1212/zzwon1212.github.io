@@ -30,6 +30,7 @@
   @include breakpoint($small) {
     float: left;
     margin-bottom: 0;
+    width: span(4 of 12);
 
     &:nth-child(3n + 1) {
       clear: both;
@@ -60,6 +61,17 @@
 
   a[rel="permalink"] {
     position: static;
+  }
+}
+
+.archive__item_recom {
+  position: relative;
+  margin-bottom: 2em;
+  font-size: 1.125em;
+
+  @include breakpoint($small) {
+    float: left;
+    margin-bottom: 0;
   }
 }
 
