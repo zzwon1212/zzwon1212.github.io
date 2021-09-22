@@ -10,7 +10,7 @@ header:
 ---
 # 5SO Project Ideaton
 
-![a](/assets/images/0002_5SO_Project_Ideaton_1.jpg)
+![](/assets/images/0002_5SO_Project_Ideaton_1.jpg)
 <br/>
 <br/>
 <br/>
